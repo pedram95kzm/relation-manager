@@ -23,7 +23,7 @@ relation-manager/
     setup-env, load-env, run-backend, verify, backup (.ps1/.sh)
   .github/workflows/ci.yml
   docs/ (index plus five documents)
-  docker-compose.yml, .env.example, README.md
+  docker-compose.yml, .env.example, README.md, LICENSE
 ```
 
 `.local/` is ignored private storage for local runtime environments, owned disposable clusters, verification outputs, and dumps. `node_modules`, `dist`, traces/screenshots, binaries, and `.env` are ignored. Do not distribute a local database cluster or report data with application source.
@@ -204,7 +204,7 @@ git diff --check
 git check-ignore .env .local/example.dump frontend/node_modules/example backend/server.exe
 ```
 
-License, release tags, contribution and review policy remain undecided. Keep source, lockfiles, migrations, Compose, and `.env.example` tracked; keep private config/dumps/data/artifacts ignored. Applied migrations/catalog and security/scoring invariants require tests and corresponding docs updates. Never include secret values or sample personal reports in a change description.
+The source uses the [MIT License](../LICENSE), copyright (c) 2026 pedram95kzm. Release tags, contribution and review policy remain undecided. Keep source, lockfiles, migrations, Compose, `LICENSE`, and `.env.example` tracked; keep private config/dumps/data/artifacts ignored. Applied migrations/catalog and security/scoring invariants require tests and corresponding docs updates. Never include secret values or sample personal reports in a change description.
 
 ## Verification results
 

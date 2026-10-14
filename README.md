@@ -60,4 +60,4 @@ Start with the [documentation index](docs/README.md). Run backend tests with a d
 
 The October 14 review passed real PostgreSQL backend tests, native builds, seven frontend tests, the production build, all four browser scenarios in one run, and an npm audit with zero reported vulnerabilities. See the [verification ledger](docs/04-development.md#verification-results) for exact results and external limits, and [remaining decisions](docs/05-decisions.md#remaining-work-and-open-questions) for release acceptance and optional extensions. Live Google/paid AI calls, Docker execution, native Linux runtime, and production TLS deployment require independent verification.
 
-Repository: [pedram95kzm/relation-manager](https://github.com/pedram95kzm/relation-manager), using the `main` branch. **License remains undecided.** Keep `.env`, local clusters, dumps, logs, and personal reports out of Git.
+Repository: [pedram95kzm/relation-manager](https://github.com/pedram95kzm/relation-manager), using the `main` branch. Licensed under the [MIT License](LICENSE), copyright (c) 2026 pedram95kzm. Keep `.env`, local clusters, dumps, logs, and personal reports out of Git.

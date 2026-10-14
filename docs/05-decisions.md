@@ -47,7 +47,7 @@ The October 14 review found the core reflection/account/admin workflows implemen
 - HTTPS ingress, certificates, hosting/incident owner, supported OS/browser matrix, rollout and recovery targets remain operator decisions. Production configuration checks do not provision these systems.
 - Development account defaults are intentionally public. SEED_DEFAULT_ACCOUNTS false does not remove/change accounts seeded earlier; a production database must not retain those public credentials. Production automatic-seeding opt-in requires both private credential pairs.
 - Storage encryption/access control, provider data-processing terms, report/audit retention, backup rotation and master-key recovery need explicit policy. Automatic age-based report erasure is not assumed.
-- The repository is [pedram95kzm/relation-manager](https://github.com/pedram95kzm/relation-manager), using `main`. License, release and contribution choices remain with the user; publishing source does not establish production acceptance or a passing remote CI result.
+- The repository is [pedram95kzm/relation-manager](https://github.com/pedram95kzm/relation-manager), using `main` and the [MIT License](../LICENSE), copyright (c) 2026 pedram95kzm. Release and contribution choices remain with the user; publishing source does not establish production acceptance or a passing remote CI result.
 
 ### Product features outside the delivered workflow
 

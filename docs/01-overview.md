@@ -56,7 +56,7 @@ Native Windows Go 1.27.1, Node 24.15.0/npm 10.9.2, PostgreSQL 15.5, and Chrome w
 ## Limits and unresolved choices
 
 - Live Google and provider/model availability require real credentials, account access, and outbound connectivity. Offline protocol tests do not verify paid provider accounts.
-- Production TLS ingress, infrastructure, release ownership, legal privacy/retention policy, incident response, and a license remain operator decisions. No deployment was published.
+- Production TLS ingress, infrastructure, release ownership, legal privacy/retention policy, and incident response remain operator decisions. The source uses the [MIT License](../LICENSE). No deployment was published.
 - Password reset/email verification, explicit identity linking, verified partner invitations, and independent partner accounts remain optional extensions outside the delivered reflection workflows.
 - Questionnaires/scoring currently support version `1.0.0`. Stored versions are explicit, but multi-version dispatch must be implemented before introducing another version.
 - AI schema checks cannot establish clinical truth or fully enforce the meaning of generated prose. Rendered scores always come from deterministic calculations.
