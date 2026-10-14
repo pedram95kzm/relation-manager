@@ -1,0 +1,622 @@
+{
+  "module": "self",
+  "version": "1.0.0",
+  "scoring_version": "1.0.0",
+  "title": {
+    "fa": "خودشناسی",
+    "en": "Self reflection"
+  },
+  "description": {
+    "fa": "با توجه به رفتار معمول خود در چند ماه گذشته پاسخ دهید. این پرسش‌های تألیفی برای خوداندیشی هستند؛ آزمون اعتبارسنجی‌شده یا ابزار تشخیص بیماری نیستند. درصد تکمیل، میزان داده را نشان می‌دهد و اطمینان آماری نیست.",
+    "en": "Answer for your usual behavior over the last few months. These original reflection questions are not a validated test or diagnostic tool. Completeness measures data supplied, not statistical confidence."
+  },
+  "questions": [
+    {
+      "id": "o1",
+      "dimension": "openness",
+      "text": {
+        "fa": "وقتی با ایده‌ای ناآشنا روبه‌رو می‌شوم، برای بررسی آن وقت می‌گذارم.",
+        "en": "When I encounter an unfamiliar idea, I spend time exploring it."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating openness; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "o2",
+      "dimension": "openness",
+      "text": {
+        "fa": "حتی وقتی فرصت تجربه کردن دارم، روش‌های آشنای انجام کارها را ترجیح می‌دهم.",
+        "en": "I prefer familiar ways of doing things even when I have room to experiment."
+      },
+      "reverse": true,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating openness; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "o3",
+      "dimension": "openness",
+      "text": {
+        "fa": "از پیدا کردن زاویه‌ای تازه برای موضوعی روزمره لذت می‌برم.",
+        "en": "I enjoy finding a new angle on an everyday topic."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating openness; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "o4",
+      "dimension": "openness",
+      "text": {
+        "fa": "معمولاً از فرصت یادگیری دربارهٔ موضوع‌های خارج از روال همیشگی‌ام می‌گذرم.",
+        "en": "I usually pass over opportunities to learn about topics outside my routine."
+      },
+      "reverse": true,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating openness; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "c1",
+      "dimension": "conscientiousness",
+      "text": {
+        "fa": "پیش از شروع کاری که برایم مهم است، برنامه‌ای قابل‌اجرا می‌ریزم.",
+        "en": "I make a workable plan before starting a task that matters to me."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating conscientiousness; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "c2",
+      "dimension": "conscientiousness",
+      "text": {
+        "fa": "وقتی کار جالب‌تری پیش می‌آید، کارهای مهم را نیمه‌تمام می‌گذارم.",
+        "en": "I leave important tasks unfinished when something more interesting appears."
+      },
+      "reverse": true,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating conscientiousness; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "c3",
+      "dimension": "conscientiousness",
+      "text": {
+        "fa": "تعهدهایم را پیگیری می‌کنم تا بتوانم به آن‌ها عمل کنم.",
+        "en": "I keep track of commitments so I can follow through."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating conscientiousness; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "c4",
+      "dimension": "conscientiousness",
+      "text": {
+        "fa": "کارهای عملی را بدون بررسی چیزهایی که برای تمام کردنشان لازم است شروع می‌کنم.",
+        "en": "I start practical tasks without checking what is needed to finish them."
+      },
+      "reverse": true,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating conscientiousness; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "e1",
+      "dimension": "extraversion",
+      "text": {
+        "fa": "وقتی وارد جمعی می‌شوم، اغلب خودم گفت‌وگو را آغاز می‌کنم.",
+        "en": "I often initiate conversation when I join a group."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating extraversion; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "e2",
+      "dimension": "extraversion",
+      "text": {
+        "fa": "پس از وقت گذراندن با دیگران، معمولاً تنهایی طولانی‌تری را ترجیح می‌دهم.",
+        "en": "After spending time with people, I usually prefer a long period alone."
+      },
+      "reverse": true,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating extraversion; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "e3",
+      "dimension": "extraversion",
+      "text": {
+        "fa": "فعالیت مشترک با دیگران معمولاً انرژی‌ام را بیشتر می‌کند.",
+        "en": "Shared activities with other people tend to increase my energy."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating extraversion; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "e4",
+      "dimension": "extraversion",
+      "text": {
+        "fa": "معمولاً از گرفتن نقشی پررنگ در فعالیت‌های گروهی پرهیز می‌کنم.",
+        "en": "I usually hold back from taking a visible role in group activities."
+      },
+      "reverse": true,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating extraversion; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "a1",
+      "dimension": "agreeableness",
+      "text": {
+        "fa": "در تصمیم‌هایم در نظر می‌گیرم که ممکن است چه اثری بر احساس دیگران بگذارند.",
+        "en": "I consider how my decisions may affect another person's feelings."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating agreeableness; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "a2",
+      "dimension": "agreeableness",
+      "text": {
+        "fa": "وقتی کسی اشتباه می‌کند، واکنش اولم معمولاً انتقاد است.",
+        "en": "When someone makes a mistake, my first response is usually criticism."
+      },
+      "reverse": true,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating agreeableness; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "a3",
+      "dimension": "agreeableness",
+      "text": {
+        "fa": "وقتی افراد نیازهای متفاوتی دارند، تلاش می‌کنم راه‌حلی منصفانه پیدا کنم.",
+        "en": "I try to find a fair arrangement when people need different things."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating agreeableness; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "a4",
+      "dimension": "agreeableness",
+      "text": {
+        "fa": "تا وقتی خلافش ثابت نشود، فرض می‌کنم دیگران انگیزه‌ای خودخواهانه دارند.",
+        "en": "I assume people have selfish reasons until they prove otherwise."
+      },
+      "reverse": true,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating agreeableness; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "n1",
+      "dimension": "negative_emotionality",
+      "text": {
+        "fa": "یک مشکل کوچک می‌تواند بخش زیادی از روز مرا نگران نگه دارد.",
+        "en": "A small setback can keep me worried for much of the day."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating negative_emotionality; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "n2",
+      "dimension": "negative_emotionality",
+      "text": {
+        "fa": "پس از مشکلی پیش‌بینی‌نشده، معمولاً نسبتاً زود تعادل احساسی‌ام را بازمی‌یابم.",
+        "en": "After an unexpected difficulty, I usually regain emotional balance fairly soon."
+      },
+      "reverse": true,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating negative_emotionality; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "n3",
+      "dimension": "negative_emotionality",
+      "text": {
+        "fa": "ابهام‌های روزمره بر حال‌وهوایم اثر زیادی می‌گذارند.",
+        "en": "My mood is strongly affected by everyday uncertainty."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating negative_emotionality; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "n4",
+      "dimension": "negative_emotionality",
+      "text": {
+        "fa": "معمولاً پس از پایان یک اتفاق ناخوشایند می‌توانم از آن عبور کنم.",
+        "en": "I can usually leave a frustrating incident behind once it has passed."
+      },
+      "reverse": true,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating negative_emotionality; no clinical or instrument-equivalence claim.",
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "ax1",
+      "dimension": "attachment_anxiety",
+      "text": {
+        "fa": "وقتی فردی نزدیک کمتر از معمول پاسخ می‌دهد، بارها دنبال اطمینان گرفتن می‌روم.",
+        "en": "When a close person is less responsive than usual, I repeatedly look for reassurance."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating attachment_anxiety; no clinical or instrument-equivalence claim.",
+      "references": [
+        "attachment"
+      ]
+    },
+    {
+      "id": "ax2",
+      "dimension": "attachment_anxiety",
+      "text": {
+        "fa": "تغییرهای کوچک در توجه فردی نزدیک باعث می‌شود جایگاهم را در رابطه زیر سؤال ببرم.",
+        "en": "Small changes in a close person's attention make me question where I stand with them."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating attachment_anxiety; no clinical or instrument-equivalence claim.",
+      "references": [
+        "attachment"
+      ]
+    },
+    {
+      "id": "ax3",
+      "dimension": "attachment_anxiety",
+      "text": {
+        "fa": "فاصله‌ای کوتاه در ارتباط معمولاً برایم قابل‌تحمل است.",
+        "en": "A brief gap in contact usually feels manageable to me."
+      },
+      "reverse": true,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating attachment_anxiety; no clinical or instrument-equivalence claim.",
+      "references": [
+        "attachment"
+      ]
+    },
+    {
+      "id": "av1",
+      "dimension": "attachment_avoidance",
+      "text": {
+        "fa": "حتی وقتی حمایت در دسترس است، نگرانی‌های شخصی‌ام را برای خودم نگه می‌دارم.",
+        "en": "I keep personal concerns to myself even when support is available."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating attachment_avoidance; no clinical or instrument-equivalence claim.",
+      "references": [
+        "attachment"
+      ]
+    },
+    {
+      "id": "av2",
+      "dimension": "attachment_avoidance",
+      "text": {
+        "fa": "وقتی کسی نزدیکی عاطفی بیشتری می‌خواهد، معمولاً فاصلهٔ بیشتری ایجاد می‌کنم.",
+        "en": "When someone seeks greater emotional closeness, I tend to create more distance."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating attachment_avoidance; no clinical or instrument-equivalence claim.",
+      "references": [
+        "attachment"
+      ]
+    },
+    {
+      "id": "av3",
+      "dimension": "attachment_avoidance",
+      "text": {
+        "fa": "می‌توانم کمک فردی نزدیک را بپذیرم، بدون آنکه احساس کنم استقلالم را از دست داده‌ام.",
+        "en": "I can accept help from a close person without feeling that I lose my independence."
+      },
+      "reverse": true,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating attachment_avoidance; no clinical or instrument-equivalence claim.",
+      "references": [
+        "attachment"
+      ]
+    },
+    {
+      "id": "ea1",
+      "dimension": "emotion_awareness",
+      "text": {
+        "fa": "معمولاً پیش از صحبت دربارهٔ واکنشم می‌توانم احساس پشت آن را نام ببرم.",
+        "en": "I can usually name the feeling behind my reaction before discussing it."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating emotion_awareness; no clinical or instrument-equivalence claim.",
+      "references": [
+        "emotion_awareness"
+      ]
+    },
+    {
+      "id": "ea2",
+      "dimension": "emotion_awareness",
+      "text": {
+        "fa": "متوجه می‌شوم که تنش در بدنم نشانهٔ تغییر احساساتم است.",
+        "en": "I notice when tension in my body signals a change in my emotions."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating emotion_awareness; no clinical or instrument-equivalence claim.",
+      "references": [
+        "emotion_awareness"
+      ]
+    },
+    {
+      "id": "ea3",
+      "dimension": "emotion_awareness",
+      "text": {
+        "fa": "پس از اتفاقی ناراحت‌کننده، احساساتم اغلب برای خودم مبهم می‌مانند.",
+        "en": "My feelings often remain unclear to me after an upsetting event."
+      },
+      "reverse": true,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating emotion_awareness; no clinical or instrument-equivalence claim.",
+      "references": [
+        "emotion_awareness"
+      ]
+    },
+    {
+      "id": "er1",
+      "dimension": "emotion_regulation",
+      "text": {
+        "fa": "وقتی ناراحتم، پیش از تصمیم دربارهٔ واکنش، توضیح دیگری برای موقعیت بررسی می‌کنم.",
+        "en": "When upset, I try another explanation of the situation before deciding how to respond."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating emotion_regulation; no clinical or instrument-equivalence claim.",
+      "references": [
+        "emotion_regulation"
+      ]
+    },
+    {
+      "id": "er2",
+      "dimension": "emotion_regulation",
+      "text": {
+        "fa": "می‌توانم مکثی کوتاه داشته باشم و دوباره به گفت‌وگویی مهم برگردم.",
+        "en": "I can take a brief pause and return to an important conversation."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating emotion_regulation; no clinical or instrument-equivalence claim.",
+      "references": [
+        "emotion_regulation"
+      ]
+    },
+    {
+      "id": "er3",
+      "dimension": "emotion_regulation",
+      "text": {
+        "fa": "احساسات شدید باعث می‌شوند پیش از بررسی پیامدها عمل کنم.",
+        "en": "Strong feelings lead me to act before I consider the consequences."
+      },
+      "reverse": true,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating emotion_regulation; no clinical or instrument-equivalence claim.",
+      "references": [
+        "emotion_regulation"
+      ]
+    },
+    {
+      "id": "cm1",
+      "dimension": "communication",
+      "text": {
+        "fa": "پیش از توضیح دیدگاهم، بررسی می‌کنم که منظور طرف مقابل را درست فهمیده‌ام.",
+        "en": "I check whether I understood someone before explaining my own view."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating communication; no clinical or instrument-equivalence claim.",
+      "references": [
+        "communication"
+      ]
+    },
+    {
+      "id": "cm2",
+      "dimension": "communication",
+      "text": {
+        "fa": "در میانهٔ اختلاف، بدون گفتن زمان بازگشت به بحث، ارتباط را قطع می‌کنم.",
+        "en": "I stop engaging in a disagreement without saying when I will return to it."
+      },
+      "reverse": true,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating communication; no clinical or instrument-equivalence claim.",
+      "references": [
+        "communication"
+      ]
+    },
+    {
+      "id": "cm3",
+      "dimension": "communication",
+      "text": {
+        "fa": "کاری مشخص را که نیاز دارم توضیح می‌دهم، به‌جای اینکه انتظار داشته باشم طرف مقابل آن را حدس بزند.",
+        "en": "I describe a specific action I need rather than expecting someone to guess it."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating communication; no clinical or instrument-equivalence claim.",
+      "references": [
+        "communication"
+      ]
+    },
+    {
+      "id": "cm4",
+      "dimension": "communication",
+      "text": {
+        "fa": "وقتی طرف مقابل ساکت می‌شود، خواسته‌ام را با شدت بیشتری تکرار می‌کنم.",
+        "en": "I repeat my demand more forcefully when the other person becomes quiet."
+      },
+      "reverse": true,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating communication; no clinical or instrument-equivalence claim.",
+      "references": [
+        "communication"
+      ]
+    }
+  ],
+  "dimensions": [
+    {
+      "id": "openness",
+      "label": {
+        "fa": "گشودگی به تجربه",
+        "en": "Openness"
+      },
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "conscientiousness",
+      "label": {
+        "fa": "وظیفه‌شناسی",
+        "en": "Conscientiousness"
+      },
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "extraversion",
+      "label": {
+        "fa": "برون‌گرایی",
+        "en": "Extraversion"
+      },
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "agreeableness",
+      "label": {
+        "fa": "توافق‌پذیری",
+        "en": "Agreeableness"
+      },
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "negative_emotionality",
+      "label": {
+        "fa": "هیجان‌پذیری منفی",
+        "en": "Negative emotionality"
+      },
+      "references": [
+        "bfi2"
+      ]
+    },
+    {
+      "id": "attachment_anxiety",
+      "label": {
+        "fa": "نگرانی مرتبط با دلبستگی",
+        "en": "Attachment-related anxiety"
+      },
+      "references": [
+        "attachment"
+      ]
+    },
+    {
+      "id": "attachment_avoidance",
+      "label": {
+        "fa": "اجتناب مرتبط با دلبستگی",
+        "en": "Attachment-related avoidance"
+      },
+      "references": [
+        "attachment"
+      ]
+    },
+    {
+      "id": "emotion_awareness",
+      "label": {
+        "fa": "آگاهی هیجانی",
+        "en": "Emotion awareness"
+      },
+      "references": [
+        "emotion_awareness"
+      ]
+    },
+    {
+      "id": "emotion_regulation",
+      "label": {
+        "fa": "تنظیم هیجان",
+        "en": "Emotion regulation"
+      },
+      "references": [
+        "emotion_regulation"
+      ]
+    },
+    {
+      "id": "communication",
+      "label": {
+        "fa": "گفت‌وگو و شنیدن",
+        "en": "Communication and listening"
+      },
+      "references": [
+        "communication"
+      ]
+    }
+  ],
+  "context_fields": []
+}

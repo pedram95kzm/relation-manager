@@ -1,0 +1,1 @@
+Write all narrative fields in natural Persian. Reflect on the self module's descriptive patterns, strengths, and possible reflection practices. Treat dimensions independently, never as personality labels or diagnoses. Mention null dimensions without filling them. Include sections for patterns, strengths, and reflection. Keep machine identifiers and schema fields unchanged.

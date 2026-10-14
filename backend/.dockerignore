@@ -1,0 +1,5 @@
+.local
+*.exe
+*.test
+coverage*
+tests/artifacts

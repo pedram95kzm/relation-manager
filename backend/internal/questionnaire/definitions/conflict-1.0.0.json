@@ -1,0 +1,425 @@
+{
+  "module": "conflict",
+  "version": "1.0.0",
+  "scoring_version": "1.0.0",
+  "title": {
+    "fa": "بررسی تعارض",
+    "en": "Conflict reflection"
+  },
+  "description": {
+    "fa": "دربارهٔ همین تعارض و رابطهٔ انتخاب‌شده پاسخ دهید. روایت شما یک دیدگاه است؛ نیت فرد دیگر معلوم نیست. این پرسش‌ها اعتبارسنجی نشده‌اند. در صورت خشونت، تهدید یا اجبار، ایمنی باید بر رویارویی یا میانجی‌گری مشترک مقدم باشد.",
+    "en": "Answer for this conflict and selected relationship. Your account is one perspective; another person’s motives are not known. These questions are not validated. Violence, threats, or coercion require safety-focused guidance before confrontation or joint mediation."
+  },
+  "questions": [
+    {
+      "id": "co1",
+      "dimension": "competing",
+      "text": {
+        "fa": "حتی وقتی طرف مقابل مخالف است، برای رسیدن به نتیجهٔ موردنظرم پافشاری می‌کنم.",
+        "en": "I press for my preferred outcome even when the other person disagrees."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating competing; no clinical or instrument-equivalence claim.",
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "co2",
+      "dimension": "competing",
+      "text": {
+        "fa": "حفظ موضع خودم را بر پیدا کردن توافقی مشترک مقدم می‌دانم.",
+        "en": "I prioritize protecting my position over finding a shared arrangement."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating competing; no clinical or instrument-equivalence claim.",
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "co3",
+      "dimension": "competing",
+      "text": {
+        "fa": "مرزی روشن بیان می‌کنم و بر رعایت آن تأکید دارم.",
+        "en": "I state a firm boundary and insist it be respected."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating competing; no clinical or instrument-equivalence claim.",
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "cb1",
+      "dimension": "collaborating",
+      "text": {
+        "fa": "می‌پرسم نتیجه باید کدام نگرانی‌های هر فرد را برطرف کند.",
+        "en": "I ask which concerns each person needs the outcome to address."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating collaborating; no clinical or instrument-equivalence claim.",
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "cb2",
+      "dimension": "collaborating",
+      "text": {
+        "fa": "پیش از انتخاب راه‌حلی مشترک، چند امکان را بررسی می‌کنم.",
+        "en": "I explore several possibilities before choosing a shared solution."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating collaborating; no clinical or instrument-equivalence claim.",
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "cb3",
+      "dimension": "collaborating",
+      "text": {
+        "fa": "دنبال برنامه‌ای می‌گردم که مهم‌ترین نیازهای هر دو نفر را حفظ کند.",
+        "en": "I look for a plan that protects what matters most to both people."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating collaborating; no clinical or instrument-equivalence claim.",
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "cp1",
+      "dimension": "compromising",
+      "text": {
+        "fa": "پیشنهاد می‌کنم اگر طرف مقابل هم کوتاه بیاید، از بخشی از خواسته‌ام صرف‌نظر کنم.",
+        "en": "I offer to give up part of my request if the other person does the same."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating compromising; no clinical or instrument-equivalence claim.",
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "cp2",
+      "dimension": "compromising",
+      "text": {
+        "fa": "به‌دنبال موضع میانه‌ای قابل‌قبول هستم، حتی اگر هیچ‌کدام به همهٔ خواسته‌هایمان نرسیم.",
+        "en": "I aim for an acceptable middle position even if neither of us gets everything."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating compromising; no clinical or instrument-equivalence claim.",
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "cp3",
+      "dimension": "compromising",
+      "text": {
+        "fa": "پیشنهاد می‌کنم زمان یا منابع محدود را میان خواسته‌هایمان تقسیم کنیم.",
+        "en": "I suggest dividing limited time or resources between our requests."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating compromising; no clinical or instrument-equivalence claim.",
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "ca1",
+      "dimension": "avoiding",
+      "text": {
+        "fa": "وقتی مواجهه با اختلاف دشوار است، گفت‌وگو را به تعویق می‌اندازم.",
+        "en": "I postpone the discussion when the disagreement feels difficult to face."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating avoiding; no clinical or instrument-equivalence claim.",
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "ca2",
+      "dimension": "avoiding",
+      "text": {
+        "fa": "گفت‌وگو را از موضوع اختلاف دور می‌کنم.",
+        "en": "I redirect the conversation away from the disputed topic."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating avoiding; no clinical or instrument-equivalence claim.",
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "ca3",
+      "dimension": "avoiding",
+      "text": {
+        "fa": "به‌جای پرداختن مستقیم به این اختلاف، ارتباط را کمتر می‌کنم.",
+        "en": "I reduce contact instead of addressing this disagreement directly."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating avoiding; no clinical or instrument-equivalence claim.",
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "ac1",
+      "dimension": "accommodating",
+      "text": {
+        "fa": "برای حفظ آرامش میانمان، ترجیح طرف مقابل را می‌پذیرم.",
+        "en": "I agree to the other person's preference to preserve calm between us."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating accommodating; no clinical or instrument-equivalence claim.",
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "ac2",
+      "dimension": "accommodating",
+      "text": {
+        "fa": "چون موضوع ظاهراً برای طرف مقابل مهم‌تر است، خواسته‌ام را کنار می‌گذارم.",
+        "en": "I set aside my request because the issue appears more important to them."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating accommodating; no clinical or instrument-equivalence claim.",
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "ac3",
+      "dimension": "accommodating",
+      "text": {
+        "fa": "حتی وقتی انتخاب خودم متفاوت است، اجازه می‌دهم طرف مقابل نتیجه را انتخاب کند.",
+        "en": "I let the other person choose the outcome even when I would choose differently."
+      },
+      "reverse": false,
+      "required": true,
+      "rationale": "Original non-validated reflection item approximating accommodating; no clinical or instrument-equivalence claim.",
+      "references": [
+        "conflict_styles"
+      ]
+    }
+  ],
+  "dimensions": [
+    {
+      "id": "competing",
+      "label": {
+        "fa": "پافشاری بر خواسته",
+        "en": "Competing"
+      },
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "collaborating",
+      "label": {
+        "fa": "همکاری",
+        "en": "Collaborating"
+      },
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "compromising",
+      "label": {
+        "fa": "مصالحه",
+        "en": "Compromising"
+      },
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "avoiding",
+      "label": {
+        "fa": "اجتناب",
+        "en": "Avoiding"
+      },
+      "references": [
+        "conflict_styles"
+      ]
+    },
+    {
+      "id": "accommodating",
+      "label": {
+        "fa": "پذیرفتن خواستهٔ دیگری",
+        "en": "Accommodating"
+      },
+      "references": [
+        "conflict_styles"
+      ]
+    }
+  ],
+  "context_fields": [
+    {
+      "id": "relationship_type",
+      "text": {
+        "fa": "رابطهٔ شما با این فرد چیست؟",
+        "en": "What is your relationship to this person?"
+      },
+      "type": "enum",
+      "required": true,
+      "allow_unknown": false,
+      "options": [
+        {
+          "value": "colleague",
+          "label": {
+            "fa": "همکار",
+            "en": "Colleague"
+          }
+        },
+        {
+          "value": "parent",
+          "label": {
+            "fa": "والد",
+            "en": "Parent"
+          }
+        },
+        {
+          "value": "friend",
+          "label": {
+            "fa": "دوست",
+            "en": "Friend"
+          }
+        },
+        {
+          "value": "partner",
+          "label": {
+            "fa": "همسر یا شریک عاطفی",
+            "en": "Spouse or romantic partner"
+          }
+        },
+        {
+          "value": "other",
+          "label": {
+            "fa": "سایر",
+            "en": "Other"
+          }
+        }
+      ]
+    },
+    {
+      "id": "safety",
+      "text": {
+        "fa": "آیا این موقعیت شامل خشونت، تهدید، اجبار یا نگرانی دربارهٔ ایمنی فوری است؟",
+        "en": "Does this situation include violence, threats, coercion, or fear for immediate safety?"
+      },
+      "type": "enum",
+      "required": true,
+      "allow_unknown": true,
+      "options": [
+        {
+          "value": "yes",
+          "label": {
+            "fa": "بله",
+            "en": "Yes"
+          }
+        },
+        {
+          "value": "no",
+          "label": {
+            "fa": "خیر",
+            "en": "No"
+          }
+        },
+        {
+          "value": "unknown",
+          "label": {
+            "fa": "نمی‌دانم",
+            "en": "I don’t know"
+          }
+        }
+      ]
+    },
+    {
+      "id": "topic",
+      "text": {
+        "fa": "اختلاف دربارهٔ چیست؟ موضوع اصلی را توضیح دهید.",
+        "en": "What is the disagreement about? Describe the main issue."
+      },
+      "type": "text",
+      "required": true,
+      "allow_unknown": false,
+      "max_length": 2000
+    },
+    {
+      "id": "observations",
+      "text": {
+        "fa": "مستقیماً مشاهده کردید که هر فرد چه گفت یا چه کرد؟",
+        "en": "What did you directly observe each person say or do?"
+      },
+      "type": "text",
+      "required": false,
+      "allow_unknown": false,
+      "max_length": 2000
+    },
+    {
+      "id": "feelings",
+      "text": {
+        "fa": "چه احساس‌ها یا واکنش‌های بدنی را در خودتان متوجه شدید؟",
+        "en": "What feelings or physical reactions did you notice in yourself?"
+      },
+      "type": "text",
+      "required": false,
+      "allow_unknown": false,
+      "max_length": 2000
+    },
+    {
+      "id": "desired_outcome",
+      "text": {
+        "fa": "دوست دارید چه تغییری رخ دهد؟",
+        "en": "What change would you like to happen?"
+      },
+      "type": "text",
+      "required": false,
+      "allow_unknown": false,
+      "max_length": 2000
+    },
+    {
+      "id": "resolution_attempts",
+      "text": {
+        "fa": "تاکنون چه تلاش‌هایی انجام شده و پس از آن چه اتفاقی افتاده است؟",
+        "en": "What has already been tried, and what happened afterward?"
+      },
+      "type": "text",
+      "required": false,
+      "allow_unknown": false,
+      "max_length": 2000
+    },
+    {
+      "id": "missing_perspective",
+      "text": {
+        "fa": "چه اطلاعات یا دیدگاه دیگری در روایت شما موجود نیست؟",
+        "en": "What information or other perspective is missing from your account?"
+      },
+      "type": "text",
+      "required": false,
+      "allow_unknown": true,
+      "max_length": 2000
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+DROP TABLE audit_events;
+DROP TABLE provider_config;
+DROP TABLE daily_usage;
+DROP TABLE usage_events;
+DROP TABLE analyses;
+DROP TABLE questionnaires;
+DROP TABLE oauth_states;
+DROP TABLE refresh_sessions;
+DROP TABLE auth_identities;
+DROP TABLE users;
